@@ -1,6 +1,6 @@
-# FoodCatering-Omnifood
+# FancyFood
 
-FoodCatering-Omnifood is a front-end web project. 
+FancyFood is a front-end web project. 
 The action and the core technology I used in this project is shown as below:
 + By using Div and Flex implement the layout the web page
 + By using Grid Generator  to help build a Responsive Web Site.
@@ -11,9 +11,6 @@ The action and the core technology I used in this project is shown as below:
 + Launch the website on my personal server.
 
 
-
-
-This original project comes from udemy course.  I rewrite it by myself. I have got a lot of necessary core skills.
 
 
 
