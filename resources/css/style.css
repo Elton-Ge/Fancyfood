@@ -653,3 +653,10 @@ ion-icon[name=logo-instagram]:active {
 .js--wp-3.animated {
   opacity: 1;
 }
+
+.map {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
