@@ -307,7 +307,7 @@ input[type=submit]:active {
 
 .meal-photo img {
   width: 100%;
-  height: auto;
+  height: 320px;
   -webkit-transform: scale(1.15);
   transform: scale(1.15);
   opacity: 0.7;
